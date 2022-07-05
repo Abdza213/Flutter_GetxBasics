@@ -18,11 +18,7 @@ class ThemeApp extends GetxController {
       ),
     ),
   );
-  ////
   ///////////
-  //////
-  ////
-  ///
   static ThemeData darkTheme = ThemeData(
     brightness: Brightness.dark,
     primarySwatch: Colors.red,
